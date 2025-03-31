@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ts-2
+taylor:
+  epsilon: 0.00001
+input:
+  value: 0.1514
+csv:
+  output:
+    path: ./build/report.csv

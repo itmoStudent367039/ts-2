@@ -1,0 +1,10 @@
+taylor:
+  epsilon: 0.00001
+stub:
+  divider: '/'
+csv:
+  output:
+    path: ./build/report-test.csv
+spring:
+  main:
+    allow-bean-definition-overriding: true
