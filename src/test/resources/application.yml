@@ -1,7 +1,5 @@
 taylor:
   epsilon: 0.00001
-stub:
-  divider: '/'
 csv:
   output:
     path: ./build/report-test.csv
